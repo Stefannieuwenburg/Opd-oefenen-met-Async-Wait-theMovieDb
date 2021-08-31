@@ -39,7 +39,7 @@ const getMovieDbDataApi = async () => {
 
 getMovieDbDataApi();
 
-// voorbeeld awaiting
+// voorbeeld awaiting winc academy video https://vimeo.com/571243346/e9e236239f
  
 // async function test() {
 //     try {
